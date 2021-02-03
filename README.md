@@ -1,37 +1,95 @@
 ## Welcome to GitHub Pages
+<html lang="en">
+<head>
 
-You can use the [editor on GitHub](https://github.com/Abinpeter010/My-Journey-FAB-Academy-2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<meta charset="utf-8">
+<title>Colorlib | Free Bootstrap Website Template</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="assets/css/template.css" rel="stylesheet" media="screen">
+<script>if ( top !== self ) top.location.replace( self.location.href );// Hey, don't iframe my iframe!</script>
 
-### Markdown
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300" rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+		<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark meter nav output progress section summary subline time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+	<![endif]-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SEKJ4E9T4H"></script>
+<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
-```markdown
-Syntax highlighted code block
+	  gtag('config', 'G-SEKJ4E9T4H');
+	</script>
+</head>
+<body>
 
-# Header 1
-## Header 2
-### Header 3
+<header class="switcher-bar ssss clearfix">
 
-- Bulleted
-- List
+<div class="logo textual pull-left">
+<a href="https://colorlib.com/wp/templates/" title="Switcher">
+<img src="assets/img/logo.png" alt="uiCookies">
+</a>
+</div>
 
-1. Numbered
-2. List
+<div class="product-switcher pull-left">
+<a href="#" title="Select a Product">
+Select a Product <span>+</span>
+</a>
+</div>
 
-**Bold** and _Italic_ and `Code` text
+<div class="remove-btn header-btn pull-right">
+<a href="#" title="Close this bar" class="icon-remove"></a>
+</div>
 
-[Link](url) and ![Image](src)
-```
+<div class="purchase-btn header-btn pull-right">
+<a href="#" title="Buy now" class="icon-shopping-cart"></a>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div class="mobile-btn header-btn pull-right hidden-xs">
+<a href="#" title="Smartphone View" class="icon-mobile-phone"></a>
+</div>
 
-### Jekyll Themes
+<div class="tablet-btn header-btn pull-right hidden-xs">
+<a href="#" title="Tablet View" class="icon-tablet"></a>
+</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abinpeter010/My-Journey-FAB-Academy-2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<div class="desktop-btn header-btn pull-right hidden-xs">
+<a href="#" title="Desktop View" class="icon-desktop"></a>
+</div>
+</header>
 
-### Support or Contact
+<section class="switcher-body">
+<a href="#" title="Prev" class="icon-chevron-left products-prev"></a>
+<div class="products-wrapper">
+<div class="products-list clearfix">
+</div>
+</div>
+<a href="#" title="Next" class="icon-chevron-right products-next"></a>
+</section>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe class="product-iframe" frameborder="0" border="0"></iframe>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="assets/js/products.js"></script>
+<script src="assets/js/application.min.js"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<div id='gpt-passback-stpd-0-1578495345178'>
+<script>
+     window.googletag = window.googletag || {cmd: []};
+       googletag.cmd.push(function() {
+         googletag
+           .defineSlot('/147246189/colorlib.com_728x90_anchor_sticky_DFP', [[320, 100], [728, 90]], 'gpt-passback-stpd-0-1578495345178')
+           .addService(googletag.pubads()).setTargeting('Placement_type', ['serving']);
+         googletag.enableServices();
+         googletag.display('gpt-passback-stpd-0-1578495345178');
+     });
+  </script>
+</div>
+</body>
+</html>
+
+
